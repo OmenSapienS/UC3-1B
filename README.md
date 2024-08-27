@@ -1,10 +1,14 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
-Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
+Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo 
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
-
+## **JavaScript**
+# Variaveis
+Var: 
+Let:
+Const:
+> const PI = 3.14; console.log(PI); // Imprime "3.14" 
 
 
 ## Atividades desenvolvidas
