@@ -8,7 +8,8 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 Var: 
 Let:
 Const:
-> const PI = 3.14; console.log(PI); // Imprime "3.14" 
+> const PI = 3.14;
+> console.log(PI); // Imprime "3.14" 
 
 
 ## Atividades desenvolvidas
