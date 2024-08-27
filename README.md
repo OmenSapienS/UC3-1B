@@ -5,11 +5,12 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 ## Conteúdo Técnico
 ## **JavaScript**
 # Variaveis
-Var: 
-Let:
-Const:
+- Var: 
+* Let:
++ Const:
 > const PI = 3.14;
-> console.log(PI); // Imprime "3.14" 
+> console.log(PI); // Imprime "3.14"
+> PI = 3.15; // Irá gerar um erro, pois o valor de uma constante não pode ser alterado
 
 
 ## Atividades desenvolvidas
