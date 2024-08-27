@@ -3,6 +3,14 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 
 
 ## Conteúdo Técnico
+1. Switch
+2. Array
+3. Introdução do JavaScript
+4. String
+5. Number
+6. Boolean
+7. Variavel
+
 ## **JavaScript**
 ### Variaveis
 - **Var**: É como uma caixinha mais antiga. Ela é um pouco mais flexível, mas também pode causar alguns problemas se você não tomar cuidado.
@@ -23,7 +31,6 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 > console.log(PI); // Imprime "3.14"
 > 
 > PI = 3.15; // Irá gerar um erro, pois o valor de uma constante não pode ser alterado
-
 
 ## Atividades desenvolvidas
 ### Links das atividades no codepen
