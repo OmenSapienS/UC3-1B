@@ -26,6 +26,13 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
-
+# Links das atividades no codepen
+[Variaveis](https://codepen.io/Nats-the-animator/pen/RwzZVyv).
+[Pedido](https://codepen.io/Nats-the-animator/pen/ZEdJPLv).
+[Prompt](https://codepen.io/Nats-the-animator/pen/MWMvxzX).
+[Números](https://codepen.io/Nats-the-animator/pen/wvLqZPm).
+[Pedido Livro](https://codepen.io/Nats-the-animator/pen/PorOWyq).
+[Loja Livros](https://codepen.io/Nats-the-animator/pen/zYVPZwe).
+[Fundamentos JavaScript](https://codepen.io/Nats-the-animator/pen/eYwyZpo).
+[Loja Livros 2](https://codepen.io/Nats-the-animator/pen/dyBdBEe).
 
