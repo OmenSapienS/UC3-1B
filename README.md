@@ -8,9 +8,12 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 - Var: É como uma caixinha mais antiga. Ela é um pouco mais flexível, mas também pode causar alguns problemas se você não tomar cuidado.
 
 **Exemplo**
+>var nomeDoHeroi = "Alex";
+
 * Let: É como uma caixinha mais moderna. Ela é mais segura e fácil de usar do que a var.
 
 **Exemplo**
+>let pontuacao = 0;
 
 + Const: É como uma caixinha trancada. Você coloca algo dentro dela, mas depois não pode mais mudar o que está lá.
 
