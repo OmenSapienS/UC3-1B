@@ -4,7 +4,7 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 
 ## Conteúdo Técnico
 ## **JavaScript**
-# Variaveis
+### Variaveis
 - **Var**: É como uma caixinha mais antiga. Ela é um pouco mais flexível, mas também pode causar alguns problemas se você não tomar cuidado.
 
 **Exemplo**
@@ -26,7 +26,7 @@ Meu caderno virtual, não sei muito bem oque eu to fazendo mas to fazendo algo
 
 
 ## Atividades desenvolvidas
-# Links das atividades no codepen
+### Links das atividades no codepen
 [Variaveis](https://codepen.io/Nats-the-animator/pen/RwzZVyv).
 
 [Pedido](https://codepen.io/Nats-the-animator/pen/ZEdJPLv).
