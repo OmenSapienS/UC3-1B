@@ -193,6 +193,8 @@ function adicionar() {
 
 ## Atividades desenvolvidas
 ### Links das atividades no codepen
+[Vídeo tik tok](https://drive.google.com/file/d/12-3PfLQqS4azbVkw05RTXPh5Z-d4sfwO/view?usp=sharing)
+
 [Variaveis](https://codepen.io/Nats-the-animator/pen/RwzZVyv).
 
 [Pedido](https://codepen.io/Nats-the-animator/pen/ZEdJPLv).
