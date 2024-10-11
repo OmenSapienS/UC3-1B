@@ -105,26 +105,63 @@ var listaDeFrutas = ['Maçãs','Uvas','Bananas','Abacaxi','Morangos'];
 
 ### *.push()*
  Adicionar um ou mais elementos no final do array.
+~~~javascript
+let frutas = ['maçã', 'banana'];
+frutas.push('laranja', 'uva');
+console.log(frutas);  // Saída: ['maçã', 'banana', 'laranja', 'uva']
+~~~~
 
 ### *.pop()*
  Remover o último elemento do array.
+~~~javascript
+let frutas = ['maçã', 'banana', 'laranja'];
+let ultimaFruta = frutas.pop();
+console.log(ultimaFruta); // Saída: 'laranja'
+console.log(frutas);      // Saída: ['maçã', 'banana']
+~~~~
 
 ### *.shift()*
  Remover o primeiro elemento do array.
+~~~javascript
+let frutas = ['maçã', 'banana', 'laranja'];
+let primeiraFruta = frutas.shift();
+console.log(primeiraFruta); // Saída: 'maçã'
+console.log(frutas);        // Saída: ['banana', 'laranja']
+~~~~
 
 ### *.unshift()*
  Adicionar um ou mais elementos ao início do array.
+~~~~javscript
+let frutas = ['banana', 'laranja'];
+frutas.unshift('maçã', 'uva');
+console.log(frutas); // Saída: ['maçã', 'uva', 'banana', 'laranja']
+~~~~
 
 ### *.slice()*
  Retorna uma cópia do array , passando dois parâmetros:
  O primeiro onde deve começar.
  O segundo onde dever terminar.
+~~~javascript
+let frutas = ['maçã', 'banana', 'laranja', 'uva'];
+let fatia = frutas.slice(1, 3);
+console.log(fatia); // Saída: ['banana', 'laranja']
+~~~~
 
 ### *.indexOf()*
  Retorna o primeiro index do elemento encontrado no array.
+~~~javascript
+let frutas = ['maçã', 'banana', 'laranja'];
+let indice = frutas.indexOf('banana');
+console.log(indice); // Saída: 1
+~~~~
 
 ### *.includes()*
  Verificar se o elemento existe no array - retorna um boleano.
+~~~javascript
+let frutas = ['maçã', 'banana', 'laranja'];
+let existe = frutas.includes('laranja');
+console.log(existe); // Saída: true
+~~~~
 
 ### Switch Case
  O comando switch case controla o fluxo do programa permitindo ao programador especificar código diferente para ser executado em várias condições. Em particular, um comando switch compara o valor de uma variável aos valores especificados nos comandos case.
